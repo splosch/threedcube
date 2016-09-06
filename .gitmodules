@@ -1,0 +1,3 @@
+[submodule "cube_basics"]
+	path = cube_basics
+	url = git@github.com:splosch/companion_cube.git
